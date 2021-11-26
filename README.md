@@ -23,11 +23,15 @@ const API_KEY = 'paste-your-mapbox-api-key-here';
  This project allows users to change layers by using the layer control panel like Dark  , Streets and Satellite Streets. 
  Also add Tectonic Plate , Earthquake and Major Earthquake
  
+ ## Streets  Layer 
+ 
  ![This is an image](https://github.com/NadaAdem/Mapping_Earthquakes/blob/main/Resources/home.png)
  
+ ## Satellite Streets Layer 
  
   ![This is an image](https://github.com/NadaAdem/Mapping_Earthquakes/blob/main/Resources/satellite.png)
   
+  ## Dark  Layer 
   
   ![This is an image](https://github.com/NadaAdem/Mapping_Earthquakes/blob/main/Resources/dark.png)
 
