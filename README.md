@@ -16,8 +16,12 @@ The purpose of this project is to create visualizations of earthquake data from 
 - Create a file called "config.js"  and add API key from Mapbox.
   Add code below use the template below for your config.js file.
  
+ ```
  // API key
+
 const API_KEY = 'paste-your-mapbox-api-key-here';
+
+```
 
 ## Layer Controls and Legend
  This project allows users to change layers by using the layer control panel like Dark  , Streets and Satellite Streets. 
