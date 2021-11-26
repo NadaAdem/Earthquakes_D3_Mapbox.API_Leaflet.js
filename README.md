@@ -1,9 +1,7 @@
 # Mapping Earthquakes with Leaflet and Mapbox
 
 ## Project Overview
-The purpose of this project is to create visualizations of earthquake data from the U.S. Geological Survey using Leaflet.js and Mapbox API. These earthquakes are visually represented by circles and colors, where a higher magnitude will have a larger diameter and will be darker in color. Popup markers and multiple map styles are also included in the map to improve the user experience.
- 
- 
+The purpose of this project is to create visualizations of earthquake data using Leaflet.js and Mapbox API . it also  allow user to change  layer and has Popup markers for more details .Circles with  colors are visually represented earthquake, the bigger circle and  darker in color has more magnitude than others . 
 
 ## Software and APIs
 - A code editor, such as VS Code
